@@ -1,1 +1,0 @@
-WinCheck(char* Board);
